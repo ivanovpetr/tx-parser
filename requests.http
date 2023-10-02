@@ -1,0 +1,13 @@
+### subscribe
+POST http://localhost:313/subscribe
+Content-Type: application/json
+
+{"address": "0x69950B080A1a11B3514b45478230c6ccaBA43d9e"}
+
+### get current block
+GET http://localhost:313/currentBlock
+
+
+### get transactions
+
+GET http://localhost:313/transactions/0x69950B080A1a11B3514b45478230c6ccaBA43d9e

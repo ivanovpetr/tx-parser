@@ -1,0 +1,12 @@
+{
+  "http": {
+    "port": "313"
+  },
+  "ethereum": {
+    "rpc_url": "https://cloudflare-eth.com"
+  },
+  "parser": {
+    "lookup_interval": 3000,
+    "starting_block": 18262540
+  }
+}
